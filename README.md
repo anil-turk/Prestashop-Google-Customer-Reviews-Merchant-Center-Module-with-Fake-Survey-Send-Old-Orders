@@ -1,5 +1,5 @@
 # Prestashop Google Customer Reviews Merchant Center Module with Fake Survey Send Old Orders
-
+![Prestashop Google Customer Reviews Merchant Center Module with Fake Survey Send Old Orders](https://example.com/example.png](https://moduletest.teslacakmak.com/googlecusreviews.png)
 ## Features
 - Send fake surveys to your mails you created.
 - Integrate with only entering to merchant id.
@@ -29,4 +29,4 @@ You can access the admin panel [here](https://moduletest.teslacakmak.com/admin20
 - Password: testtest
 
 ##Screenshots
-![test]([https://example.com/example.png](https://moduletest.teslacakmak.com/googlecusreviews.png) "test")
+
