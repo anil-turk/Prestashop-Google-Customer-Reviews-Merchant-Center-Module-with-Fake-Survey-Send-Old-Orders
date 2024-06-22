@@ -29,4 +29,7 @@ You can access the admin panel [here](https://moduletest.teslacakmak.com/admin20
 - Password: testtest
 
 ##Screenshots
-
+![Prestashop Google Customer Reviews Merchant Center Module with Fake Survey Send Old Orders](https://moduletest.teslacakmak.com/screen1.png)
+![Prestashop Google Customer Reviews Merchant Center Module with Fake Survey Send Old Orders](https://moduletest.teslacakmak.com/screen2.PNG)
+![Prestashop Google Customer Reviews Merchant Center Module with Fake Survey Send Old Orders](https://moduletest.teslacakmak.com/screen3.png)
+![Prestashop Google Customer Reviews Merchant Center Module with Fake Survey Send Old Orders](https://moduletest.teslacakmak.com/screen4.png)
