@@ -29,4 +29,4 @@ You can access the admin panel [here](https://moduletest.teslacakmak.com/admin20
 - Password: testtest
 
 ##Screenshots
-![]([https://example.com/example.png](https://moduletest.teslacakmak.com/googlecusreviews.png) "")
+![test]([https://example.com/example.png](https://moduletest.teslacakmak.com/googlecusreviews.png) "test")
